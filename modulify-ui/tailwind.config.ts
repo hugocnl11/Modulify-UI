@@ -13,6 +13,7 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         "gradient-text": "linear-gradient(90deg, #ff00cc, #333399, #00ccff)",
+        "elpepe": "color(#ffffff)",
       },
     },
   },

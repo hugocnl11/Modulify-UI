@@ -20,8 +20,12 @@ const Navbar: React.FC = () => {
             Services
           </Link>
           <Link href="/contact" className="text-white hover:text-gray-300 transition-colors duration-200">
-            Contact
+            Log in
           </Link>
+          <Link href="/contact" className="text-white hover:text-gray-300 transition-colors duration-200">
+            Sign up
+          </Link>
+
         </div>
       </div>
     </nav>
@@ -29,3 +33,4 @@ const Navbar: React.FC = () => {
 };
 
 export default Navbar;
+
